@@ -1,0 +1,27 @@
+---
+
+---
+
+@import "minima";
+
+  /* Your custom styles go below this line */
+
+body {
+  background-color:white;
+}
+
+.centered-logo {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;    /* Centers vertically */
+    height: 100vh;         /* Makes the container take up the full viewport height */
+    /* Optional: Add background color for better visualization */
+    /* background-color: #f0f0f0; */
+  }
+  
+.centered-logo img {
+    /* Optional: Add max-width to prevent the image from being too large 
+    max-width: 80%;
+    max-height: 80%;
+    */
+}
