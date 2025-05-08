@@ -5,4 +5,4 @@
 layout: centered
 ---
 
-<img src="{{ site.baseurl }}/assets/images/LG08011-BH-Logo-cra-Web.png" alt="Breadhound Logo" />
+<img src="{{ site.baseurl }}/assets/images/breadhound.jpg" alt="Breadhound Logo" />
